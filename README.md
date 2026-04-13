@@ -1,4 +1,4 @@
-# receptor
+# Receptor
 
 HTTP exfiltration listener for CTF environments. Receives POST requests and saves the body as local files, with a live split-screen terminal UI.
 
